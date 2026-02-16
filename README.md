@@ -45,7 +45,12 @@ JAX es minimalista por diseño. Para construir modelos complejos, se apoya en un
 
 ---
 
-## 4. Bibliografía y Recursos
+## 4. Ejemplos prácticos
+En este repositorio se adjunta un laboratorio jupyter con dos ejemplos prácticos basados en álgebra para mostrar el uso de JAX.
+
+---
+
+## 5. Bibliografía y Recursos
 
 Para la elaboración de esta actividad y para profundizar en el uso de **JAX**, se han consultado las siguientes fuentes oficiales, tutoriales y documentación técnica:
 
